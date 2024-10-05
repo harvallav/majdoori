@@ -1,0 +1,10 @@
+---
+title: "ABOUT ME"
+---
+
+# Hello
+
+I'm Harvallav, a 19-year-old enthusiast for art and creativity. I study at the Srishti Manipal Institute of Art, Design, and Technology, majoring in Creative and Applied Computation, aligning my passion for art with computational creativity.\
+I hope you enjoy me experimenting with my assignments here in this website.\
+
+![](photo.png)
